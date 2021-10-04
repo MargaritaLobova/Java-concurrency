@@ -1,3 +1,4 @@
+package com.lobova.java_concurrency.lab4;
 /**
  * Child thread prints text. After 2000 millis main thread interrupts child.
  */
